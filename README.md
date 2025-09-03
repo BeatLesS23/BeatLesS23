@@ -14,7 +14,7 @@
 <!--Start Intro-->               
 <p align="left">I’m a Junior Full Stack Developer working at the DSWD Central Office. I’m open to commission-based capstone projects, where I love turning ideas into practical and meaningful solutions.</p>
 
-- ✨ Fresh Graduate <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="20"/>
+- <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="18"/> Fresh Graduate <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="20"/>
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://beatless23.netlify.app/) for more details about me.
 <!--End Intro-->
@@ -25,7 +25,7 @@
 <h2 align="center"><img src="https://slackmojis.com/emojis/10096-laptop_parrot/download" width="30"/> Tech Stack</h2> 
 
 ### 🔹 Languages
-<p align="left">
+<p align="left" width="60%">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=flat-square&logo=javascript&logoColor=black"/>
@@ -35,7 +35,7 @@
 </p>
 
 ### 🔹 Frameworks & Libraries
-<p align="left">
+<p align="left" width="60%">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -46,13 +46,13 @@
 </p>
 
 ### 🔹 Databases
-<p align="left">
+<p align="left" width="60%">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🔹 Tools & Platforms
-<p align="left">
+<p align="left" width="60%">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Navicat-11B48A?style=flat-square&logo=navicat&logoColor=white"/>
@@ -69,18 +69,17 @@
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
 ### 🔹 Cloud & Hosting
-<p align="left">
+<p align="left" width="60%">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/CyberPanel-008080?style=flat-square&logo=cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Indevfinite_(CyberPanel)-008080?style=flat-square&logo=cloud&logoColor=white"/>
 </p>
 
 ### 🔹 APIs & AI Tools
-<p align="left">
+<p align="left" width="60%">
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white"/>
