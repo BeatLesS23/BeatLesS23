@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> I'M Mark! 
+# <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> Hi! I'm Mark! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="30"/>
 *Developer / Programmer*
 <br /> 
 
