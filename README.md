@@ -7,14 +7,14 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> Hi! I'm Mark! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="30"/>
+# Hi! I'm Mark! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="30"/>
 *Developer / Programmer*
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">I’m a Junior Full Stack Developer working at the DSWD Central Office. I’m open to commission-based capstone projects, where I love turning ideas into practical and meaningful solutions.</p>
 
-- ✨ Fresh Graduate :)
+- ✨ Fresh Graduate <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="20"/>
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://beatless23.netlify.app/) for more details about me.
 <!--End Intro-->
@@ -61,17 +61,21 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/PuTTY-35495E?style=flat-square&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/draw.io-008CBA?style=flat-square&logo=draw.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucidchart-FF8800?style=flat-square&logo=lucidchart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
 
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
 ### 🔹 Cloud & Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CyberPanel-008080?style=flat-square&logo=cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Indevfinite_(CyberPanel)-008080?style=flat-square&logo=cloud&logoColor=white"/>
 </p>
 
