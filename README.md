@@ -16,7 +16,7 @@
 
 - ✨ Fresh Graduate :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my <a href="https://beatless23.github.io/portfolio" target="_blank">Portfolio</a> for more details about me.
+- 💻 Visit my [Portfolio](https://beatless23.github.io/portfolio) for more details about me.
 <!--End Intro-->
 
 ---
