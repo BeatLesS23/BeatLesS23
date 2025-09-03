@@ -2,8 +2,13 @@
 ![BeatLesS Banner Image](./banner.png)
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://static.wikia.nocookie.net/p__/images/5/54/Kaiju_No._8_anime_render.webp/revision/latest?cb=20230924163203&path-prefix=protagonist">
+<div style="position: relative; z-index: 10;">
+  <img 
+    align="right" 
+    width="40%" 
+    src="https://static.wikia.nocookie.net/p__/images/5/54/Kaiju_No._8_anime_render.webp/revision/latest?cb=20230924163203&path-prefix=protagonist"
+    style="position: relative; z-index: 10;"
+  >
 </div>
 
 <!--Header Name-->
