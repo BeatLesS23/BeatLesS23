@@ -16,7 +16,7 @@
 
 - ✨ Fresh Graduate :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://beatless23.github.io/portfolio) for more details about me.
+- 💻 Visit my [Portfolio](https://beatless23.netlify.app/) for more details about me.
 <!--End Intro-->
 
 ---
@@ -56,9 +56,35 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Navicat-11B48A?style=flat-square&logo=navicat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLyog-005C8F?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WAMP-FF4088?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PuTTY-35495E?style=flat-square&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
+
+### 🔹 Cloud & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Indevfinite_(CyberPanel)-008080?style=flat-square&logo=cloud&logoColor=white"/>
+</p>
+
+### 🔹 APIs & AI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+
 
 ---
 
