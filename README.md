@@ -2,14 +2,7 @@
 ![BeatLesS Banner Image](./banner.png)
 
 <!--Night Owl image-->
-<div style="position: relative; z-index: 10;">
-  <img 
-    align="right" 
-    width="40%" 
-    src="https://static.wikia.nocookie.net/p__/images/5/54/Kaiju_No._8_anime_render.webp/revision/latest?cb=20230924163203&path-prefix=protagonist"
-    style="position: relative; z-index: 10;"
-  >
-</div>
+<div> <img align="right" width="40%" src="https://static.wikia.nocookie.net/p__/images/5/54/Kaiju_No._8_anime_render.webp/revision/latest?cb=20230924163203&path-prefix=protagonist"> </div>
 
 <!--Header Name-->
 # Hi! I'm Mark! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="30"/>
@@ -19,7 +12,7 @@
 <!--Start Intro-->               
 <p align="left">I’m a Junior Full Stack Developer working at the DSWD Central Office. I’m open to commission-based capstone projects, where I love turning ideas into practical and meaningful solutions.</p>
 
-- <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="18"/> Fresh Graduate <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="20"/>
+- <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="18"/> Fresh Graduate
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://beatless23.netlify.app/) for more details about me.
 <!--End Intro-->
