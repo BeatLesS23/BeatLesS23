@@ -22,7 +22,7 @@
 ---
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack</h2> 
+<h2 align="center"># <img src="https://slackmojis.com/emojis/10096-laptop_parrot/download" width="30"/> Tech Stack</h2> 
 
 ### 🔹 Languages
 <p align="left">
