@@ -22,16 +22,18 @@
 ---
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
+<h2 align="center">🛠️ Tech Stack</h2> 
 
-<p align="center">
-  <!--Languages-->
+### 🔹 Languages
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  
-  <!--Frameworks-->
+</p>
+
+### 🔹 Frameworks & Libraries
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -39,12 +41,16 @@
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flowbite-0EA5E9?style=for-the-badge&logo=flowbite&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireUI-2563EB?style=for-the-badge&logo=laravel&logoColor=white"/>
-  
-  <!--Databases-->
+</p>
+
+### 🔹 Databases
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-  <!--Tools-->
+</p>
+
+### 🔹 Tools & Platforms
+<p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Navicat-11B48A?style=for-the-badge&logo=navicat&logoColor=white"/>
@@ -55,7 +61,7 @@
 ---
 
 <!-- Contact Section -->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 <div align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
